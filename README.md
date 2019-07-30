@@ -10,6 +10,10 @@ Este é o projeto 4 da disciplina de IA do mestrado em computação aplicada do 
 **Linguagem:** Python 3 em sua última versão
 <br />
 **Ambiente:** Foi utilizado o ambiente anaconda para Windows 10 de 64 bits, com todas as bibliotecas atualizadas
+<br />
+**Link do artigo no overleaf:** https://www.overleaf.com/read/dsmbqkcwzjyf
+<br />
+**Template Latex utilizado:** Foi utilizado o template de conferências da SBC
 
 ### DESCRIÇÃO DO PROJETO
 
